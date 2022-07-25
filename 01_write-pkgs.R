@@ -1,7 +1,4 @@
-#' Installed packages
-#' #' ---
-#' #' author: "RR"
-#' date: "`r format(Sys.Date())`
+#' ---
 #' output: github_document
 #' ---
 
